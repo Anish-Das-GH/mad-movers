@@ -1,0 +1,6 @@
+{
+  "name": "Mad Movers | Dance School & Multi-Branch Activity Centre",
+  "description": "Official web experience for Mad Movers - Eastern India's premier multi-branch dance academy and activity centre. Urban dance, contemporary, kathak, yoga, and youth programs across state-of-the-art studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
